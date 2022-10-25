@@ -1,0 +1,17 @@
+履修済リスト（予定を含む）  
+[MATLAB 入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bbbaf19f-55d8-4ea7-ad2f-9ab1566ebd9f&)  
+[MATLAB 基礎]()  
+[MATLAB による複雑なデータの読み込みと前処理および可視化]()  
+[MATLAB プログラミング アドバンスド]()  
+[]()  
+[Simulink 入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1138ce17-fd8e-4d36-a99c-50191c5545a5&)  
+[Simulink 基礎]()  
+[Simscape 入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3433ee35-9fa5-4b54-9b9a-d7fd339e52d9&)  
+[Stateflow 入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=b7f11a22-004c-484b-b030-5660687c1528&)  
+[Simulink による制御設計入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=34bf4e9a-4065-4b24-95d8-42d8da2fdf39&)  
+[電気回路シミュレーション入門]()  
+[Power Electronics Simulation Onramp]()  
+[]()  
+[]()  
+  
+[戻る](README.md)
