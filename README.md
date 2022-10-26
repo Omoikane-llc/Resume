@@ -49,7 +49,7 @@
     - bash 
       - Linuxサーバ上のバッチ起動スクリプトとして使用
   - 学習したことのある言語
-    - MATLAB[トレーニング修了リスト](MATLAB_comp_list.md)）  
+    - MATLAB[(トレーニング修了リスト)](MATLAB_comp_list.md)  
     - Scala
     - Kotlin
     - C
