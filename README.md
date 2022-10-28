@@ -25,10 +25,10 @@
 - プログラミング言語
   - 業務で使用したことのあり，習熟している言語
     - C# 
-      - Azure上の自社サービス開発の際使用
+      - Azure上のサービス開発の際使用
       - サーバー側のWebAppとFunctionsで使用
     - TypeScript 
-      - Azure上の自社サービス開発の際使用
+      - Azure上のサービス開発の際使用
       - フロント側をSPA化するために使用
     - python
       - TensorFlow TFLiteを用いて画像解析（物体検出）処理に使用
