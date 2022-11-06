@@ -14,5 +14,7 @@
 []()  
 [画像処理入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=55052620-ef2d-4317-9cec-fcb9549c6287&)  
 []()  
+[強化学習入門]()  
+[]()  
   
 [戻る](README.md)
