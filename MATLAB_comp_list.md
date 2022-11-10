@@ -1,8 +1,11 @@
 履修済リスト（予定を含む）  
 [MATLAB 入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bbbaf19f-55d8-4ea7-ad2f-9ab1566ebd9f&)  
 [MATLAB 基礎](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=043768cd-6a82-4a25-b2fa-0b4f9405f4be&)  
-[MATLAB による複雑なデータの読み込みと前処理および可視化]()  
+[MATLAB による複雑なデータの読み込みと前処理および可視化](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bed76cc2-0aca-4672-8e7a-231933e71ed9&)  
 [MATLAB プログラミング アドバンスド]()  
+[MATLAB によるシンボリック計算](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ae9e869b-e1be-44b2-9ebe-ac6c164166a2&)  
+[最適化入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ec797fbf-fb9a-4d5f-bd33-cbbfbe2d47d7&)  
+[]()  
 []()  
 [Simulink 入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1138ce17-fd8e-4d36-a99c-50191c5545a5&)  
 [Simulink 基礎](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=be32c8c3-02a4-40dd-8ee3-08226fb2bf13&)  
@@ -13,8 +16,9 @@
 [Power Electronics Simulation Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f408d2c3-b1c5-436c-bf8a-2b2724cd1cfd&)  
 []()  
 [画像処理入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=55052620-ef2d-4317-9cec-fcb9549c6287&)  
+[MATLAB による画像処理]()  
 []()  
-[強化学習入門]()  
+[強化学習入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3fcf33c2-4600-45b4-a0c1-36b46892f9fd&)  
 []()  
   
 [戻る](README.md)
