@@ -23,7 +23,7 @@
 
 ### 言語
 
-- プログラミング言語
+- プログラミング言語（HDLを含む）
   - 業務で使用したことのあり，習熟している言語
     - C# 
       - Azure上のサービス開発の際使用
@@ -54,6 +54,7 @@
     - Scala
     - Kotlin
     - C
+    - VHDL
     - Haskell
     - R
     - PHP
@@ -76,7 +77,7 @@
 
 
 ## 職務経歴
-### 2022/09 - 2023/02: [神奈川主催　離職者訓練　電子回路技術](https://www3.jeed.go.jp/kanagawa/poly/training/cource-03.html)
+### 2022/09 - 2023/02: [独立行政法人主催　離職者訓練　電子回路技術](https://www3.jeed.go.jp/kanagawa/poly/training/cource-03.html)
 職務:ポリテクセンター関東　電子回路技術科訓練生  
 
 ### 2019/11 - 2022/07: [株式会社JVCケンウッド](https://www.jvckenwood.com/jp.html)
