@@ -2,7 +2,7 @@
 [MATLAB 入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bbbaf19f-55d8-4ea7-ad2f-9ab1566ebd9f&)  
 [MATLAB 基礎](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=043768cd-6a82-4a25-b2fa-0b4f9405f4be&)  
 [MATLAB による複雑なデータの読み込みと前処理および可視化](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bed76cc2-0aca-4672-8e7a-231933e71ed9&)  
-[MATLAB プログラミング アドバンスド]()  
+[MATLAB プログラミング アドバンスド](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=b968b672-2ec8-461a-8800-e8d54aaca940&)  
 [MATLAB によるシンボリック計算](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ae9e869b-e1be-44b2-9ebe-ac6c164166a2&)  
 [最適化入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ec797fbf-fb9a-4d5f-bd33-cbbfbe2d47d7&)  
 [MATLAB による統計解析](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2c7dff31-c943-4c87-b32d-b988bf826aa2&)
@@ -22,6 +22,8 @@
 [MATLAB による画像処理](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=584472ab-d9e9-4048-8178-d3dde4ae46a4&)  
 []()  
 [強化学習入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3fcf33c2-4600-45b4-a0c1-36b46892f9fd&)  
+[機械学習入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7212c376-f0de-46eb-88f5-282fee4d554b&)  
+[ディープ ラーニング入門](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=8c331783-125e-4428-b5ff-6881df652bde&)  
 []()  
   
 [戻る](README.md)
